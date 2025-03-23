@@ -4,7 +4,7 @@
 setlocal EnableDelayedExpansion
 
 :: Set IDA plugins directory
-set IDA_PLUGIN_DIR=C:\Program Files\IDA Professional 9.0\plugins
+set IDA_PLUGIN_DIR=C:\Program Files\IDA Professional 9.1\plugins
 
 :: Loop through both build types
 for %%B in (32 64) do (
